@@ -1,0 +1,31 @@
+body {
+      font-family: Arial,Helvetica,sans-serif;
+      background-color: #8e9cb1;
+
+}
+
+section {
+padding-top: 50px;
+padding-bottom: 20px;
+}
+
+.hello{
+    font-size: 18px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 12px;
+  }
+
+  .kon{
+    font-style: Courier, monospace;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 40px;
+  }
+  
+  .dis{
+    font-style: Courier, monospace;
+    font-size: 1.2em;
+    padding-left: 60px;
+
+  }
